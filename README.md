@@ -65,7 +65,7 @@ Profile visits:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <h2> Documents </h2>
-:paperclip: <a href='https://drive.google.com/file/d/1lBhCoA_xKLoX_ohIIGNYxeTlYPeLxuSL/view?usp=sharing'>My Resume/CV</a>
+:paperclip: <a href='https://github.com/iamrayshudul/iamrayshudul/blob/main/CV_of_Md_Rayshudul_Islam.pdf'>My Resume/CV</a>
 <br />
 :email: rayshudul@gmail.com
 
