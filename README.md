@@ -23,7 +23,7 @@ Profile visits:
 <a href="https://github.com/iamrayshudul">
   <img  alt="Shawon's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/rayshudul/">
+<a href="https://instagram.com/iamrayshudul/">
   <img  alt="shawon's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/iamrayshudul">
