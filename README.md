@@ -66,6 +66,7 @@ Profile visits:
 
 <h2> Documents </h2>
 :paperclip: <a href='https://drive.google.com/file/d/1lBhCoA_xKLoX_ohIIGNYxeTlYPeLxuSL/view?usp=sharing'>My Resume/CV</a>
+<br />
 :email: eshawon.cs@gmail.com
 
 <h2 align="Left"> 📈 My GitHub Stats </h2>
