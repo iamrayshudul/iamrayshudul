@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/eshawoncs/eshawoncs/main/Md.%20Rayshudul%20islam%20shawon.png'/>
+<img src='https://raw.githubusercontent.com/iamrayshudul/iamrayshudul/main/iamrayshudul.png'/>
 <h1>Hola, I'm Shawon! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 I'm a Full Stack Web Developer and Content Creator on Youtube. I spend most of time coding or gaming.
 <br />
@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer and Content Creator on Youtube. I spend most of t
 Profile visits:
 <br />
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshawoncs&label=Views&color=blue&style=plastic" alt="eshawoncs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrayshudul&label=Views&color=blue&style=plastic" alt="iamrayshudul" /> </p>
 
 <h2> :mailbox: Reach me out! </h2>
 <p align="left">
@@ -20,7 +20,7 @@ Profile visits:
 <a href="https://www.linkedin.com/in/fnshawon/">
   <img  alt="Shawon's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/eshawoncs">
+<a href="https://github.com/iamrayshudul">
   <img  alt="Shawon's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/rayshudul/">
@@ -34,16 +34,16 @@ Profile visits:
  <br>
  </p>
 
-- ?? Iâ€™m currently working on <a href='https://eshawoncs.github.io/valentine_demonstration/'>My Valentine.??????</a>
-- ?? Most used line of code git commit -m "Initial Commit"
-- ?? Iâ€™m currently learning Python.
-- ?? Iâ€™m looking to collaborate on <a href='https://www.youtube.com/channel/UC9tMQC2kecFbswAz7UsTk6A'>Youtube</a>
-- ?? Ask me about any tech related stuff.
-- ?? How to reach me: eshawon.cs@gmail.com
-- ?? Pronouns: He/His
-- ? Fun fact: I spend almost 5 hours listening songs everyday.
+- 🔭 I'm currently working on <a href='https://iamrayshudul.github.io/valentine_demonstration/'>My Valentine.</a>
+- 💻 Most used line of code git commit -m "Initial Commit"
+- 🌱 I'm currently learning Python.
+- 👯 I'm looking to collaborate on <a href='https://www.youtube.com/channel/UC9tMQC2kecFbswAz7UsTk6A'>Youtube</a>
+- 💬 Ask me about any tech related stuff.
+- 📫 How to reach me: rayshudul@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 5 hours listening songs everyday.
 
-<h2> ?? Playing with me </h2>
+<h2> 🎧 Playing with me </h2>
 
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
@@ -68,8 +68,8 @@ Profile visits:
 :paperclip: <a href='https://drive.google.com/file/d/1lBhCoA_xKLoX_ohIIGNYxeTlYPeLxuSL/view?usp=sharing'>My Resume/CV</a>
 :email: eshawon.cs@gmail.com
 
-<h2 align="Left"> ?? My GitHub Stats </h2>
+<h2 align="Left"> 📈 My GitHub Stats </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eshawoncs&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=iamrayshudul&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshawoncs&layout=compact&bg_color=ffffff&text_color=333333"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrayshudul&layout=compact&bg_color=ffffff&text_color=333333"></p>
