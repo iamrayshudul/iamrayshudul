@@ -26,7 +26,7 @@ Profile visits:
 <a href="https://instagram.com/rayshudul/">
   <img  alt="shawon's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/rayshudul">
+<a href="https://www.facebook.com/iamrayshudul">
   <img  alt="Shawon's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
   </samp>
