@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Rayshudul Islam Shawon</h1>
-<h3 align="center">A passionate Software QA Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Software QA Engineer from Bangladesh. I am energetic, progressive, and proactive Quality Assurance professional, passionate about seeing ideas come to fruition. I assist to deliver the best quality software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrayshudul&label=Profile%20views&color=0e75b6&style=flat" alt="iamrayshudul" /> </p>
 
