@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [My Valentine](https://iamrayshudul.github.io/valentinedemo2021/)
+- 🔭 I’m currently working on **Automation Testing**
 
 - 🌱 I’m currently learning **Software Testing**
 
